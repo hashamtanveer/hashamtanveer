@@ -3,7 +3,7 @@
   
 <h3>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"> </h3>
 
-💥 A Computer Science Sophomore at [Drexel University](https://drexel.edu/) [CCI](https://drexel.edu/cci/). A Cricketer 🏏, Traveller ✈️ ,Photographer 📸.
+💥 I'm a Computer Science Sophomore at [Drexel University](https://drexel.edu/) [CCI](https://drexel.edu/cci/). A Cricketer 🏏, Traveller ✈️ ,Photographer 📸.
 
 </div>
 
