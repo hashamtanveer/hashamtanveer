@@ -1,15 +1,15 @@
-### Hi there 👋
 
+<div align="center">
+  
+<h3>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"> </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/hashamtanveer/)
-- [Twitter](https://twitter.com/hashamtanveer54)
-- [Facebook](https://www.facebook.com/hashamtanveer54)
-- [Instagram](https://www.instagram.com/hasham_tanveer54/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+💥 A Computer Science Sophomore at [Drexel University](https://drexel.edu/) [CCI](https://drexel.edu/cci/). A Cricketer 🏏, Traveller ✈️ ,Photographer 📸.
+
+</div>
+
+### 👥 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/hashamtanveer/)
+[Twitter](https://twitter.com/hashamtanveer54)
+[Facebook](https://www.facebook.com/hashamtanveer54)
+[Instagram](https://www.instagram.com/hasham_tanveer54/)
+
