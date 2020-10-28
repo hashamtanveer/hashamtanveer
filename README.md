@@ -8,8 +8,8 @@
 </div>
 
 ### 👥 Connect With Me
--[LinkedIn](https://www.linkedin.com/in/hashamtanveer/)
--[Twitter](https://twitter.com/hashamtanveer54)
--[Facebook](https://www.facebook.com/hashamtanveer54)
--[Instagram](https://www.instagram.com/hasham_tanveer54/)
+- [LinkedIn](https://www.linkedin.com/in/hashamtanveer/)
+- [Twitter](https://twitter.com/hashamtanveer54)
+- [Facebook](https://www.facebook.com/hashamtanveer54)
+- [Instagram](https://www.instagram.com/hasham_tanveer54/)
 
