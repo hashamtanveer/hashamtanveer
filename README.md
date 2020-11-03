@@ -5,7 +5,7 @@
 
 💥 I'm a Computer Science Sophomore at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). 
 
- A Cricketer 🏏, Traveller ✈️ , and a Photographer 📸.
+ A Cricketer 🏏, Traveller ✈️ , Photographer 📸 and an Aspiring Entrepreneur 💼.
 
 </div>
 
