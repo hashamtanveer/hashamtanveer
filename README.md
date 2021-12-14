@@ -5,6 +5,7 @@
 
 💥 I'm a Computer Science Pre-Junior 👨‍🎓 at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎, Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. I am passionate about building innovative and impactful software based products to solve the challenges prevailing in industry & society.
 
+  
 </div>
 
 ### 📝 Featured:
@@ -13,7 +14,7 @@
 - [TechJuice](https://www.techjuice.pk/pakistani-high-school-team-win-the-global-diamond-challenge/)
 - [TheDayspring Newspaper](https://www.thedayspring.com.pk/with-an-aim-to-help-farmers-young-hasham-finds-a-way-to-combat-water-scarcity/)
 - [WAFF](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer)
-- 
+
 
 
 ### 👥 Connect With Me
