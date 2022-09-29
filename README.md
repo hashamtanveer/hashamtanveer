@@ -82,7 +82,7 @@
     
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://www.linkedin.com/in/hashamtanveer/" target="blank"><img align="center" src="linkedin.png" alt="HridoyHazard" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/hashamtanveer/" target="blank"><img align="center" src="linkedin.png" alt="HridoyHazard" height="35" width="35" /></a>
 <a href="https://twitter.com/hashamtanveer54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HridoyHazard" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hashamtanveer54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hasham_tanveer54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
