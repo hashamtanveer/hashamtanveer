@@ -36,6 +36,7 @@
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=yellow">
   <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
