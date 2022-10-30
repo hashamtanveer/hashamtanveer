@@ -10,7 +10,7 @@
 - Blockchain Enthusiast ₿
 I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
 
-<div>
+</div>
 
 ### 📜 Licenses & Certifications:
 - [The Complete 2022 Web Development Bootcamp - Full Stack](https://www.udemy.com/certificate/UC-54366fda-baf0-486b-9b51-6c7b8d299d81/)
