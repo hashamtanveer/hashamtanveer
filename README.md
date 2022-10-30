@@ -30,6 +30,8 @@
 <span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
+
 </span>
 
 <h4> Frameworks </h4>
