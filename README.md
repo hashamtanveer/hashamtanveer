@@ -5,10 +5,11 @@
 
 💥 I'm a Computer Science Junior 👨‍🎓 at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). 
   
-- A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
-- Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
-- Blockchain Enthusiast <img src="https://www.flaticon.com/free-icon/blockchain_887739?term=blockchain&page=1&position=13&page=1&position=13&related_id=887739&origin=tag">
-- I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
+-Drexel University Global Scholar 
+-A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
+-Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
+-Blockchain Enthusiast ₿
+I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
 
   
 </div>
