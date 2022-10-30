@@ -3,7 +3,12 @@
   
 <h3>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px" alt="Waving"> </h3>
 
-💥 I'm a Computer Science Junior 👨‍🎓 at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎, Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
+💥 I'm a Computer Science Junior 👨‍🎓 at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). 
+  
+- A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
+- Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
+- Blockchain Enthusiast <img src="https://www.flaticon.com/free-icon/blockchain_887739?term=blockchain&page=1&position=13&page=1&position=13&related_id=887739&origin=tag">
+- I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
 
   
 </div>
@@ -64,9 +69,16 @@
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/swagger-F05032?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-5E5C5C?style=for-the-badge&logo=redis&logoColor=white">
 </span>
     
 
