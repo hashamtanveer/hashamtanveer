@@ -1,9 +1,10 @@
 
   
 <h1 align="center">Hi 👋, I'm Hasham</h1>
-💥 I'm a Computer Science Junior 👨‍🎓 at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). 
-  
-- Drexel University Global Scholar 
+<br>
+💥 I'm a Computer Science Junior 👨‍🎓 at Drexel University. 
+<br>
+- A Drexel University Global Scholar 
 - A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
 - Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
 - Blockchain Enthusiast ₿
