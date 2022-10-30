@@ -1,18 +1,15 @@
 
-<div align="center">
   
-<h3>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px" alt="Waving"> </h3>
-
+<h1 align="center">Hi 👋, I'm Hasham</h1>
 💥 I'm a Computer Science Junior 👨‍🎓 at [Drexel University](https://drexel.edu/)'s [CCI](https://drexel.edu/cci/). 
   
--Drexel University Global Scholar 
--A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
--Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
--Blockchain Enthusiast ₿
+- Drexel University Global Scholar 
+- A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
+- Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
+- Blockchain Enthusiast ₿
 I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
 
-  
-</div>
+
 
 ### 📜 Licenses & Certifications:
 - [The Complete 2022 Web Development Bootcamp - Full Stack](https://www.udemy.com/certificate/UC-54366fda-baf0-486b-9b51-6c7b8d299d81/)
