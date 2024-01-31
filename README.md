@@ -1,7 +1,7 @@
 
 # Hi  👋  I'm Hasham
 
-I'm a Computer Science Junior 👨‍🎓 at Drexel University. 
+I'm a Computer Science Senior 👨‍🎓 at Drexel University. 
 - A Drexel University Global Scholar 
 - A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
 - Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
