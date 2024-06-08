@@ -4,7 +4,6 @@
 I'm a Computer Science Senior 👨‍🎓 at Drexel University. 
 - A Drexel University Global Scholar 
 - A [2019 Global Teen Leader](https://www.wearefamilyfoundation.org/gtl-2019/hasham-tanveer) 🌎 
-- Co-founder [TandoorPlus](https://tandoorplus.com/) 💼. 
 - Blockchain Enthusiast ₿
 
 I am passionate about building innovative and impactful software-based products to solve the challenges prevailing in industry & society.
